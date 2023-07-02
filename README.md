@@ -1,34 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Go India Stocks - NextJS Frontend
+### The project was developed using Next.js and employed Tailwind CSS for styling. It features a responsive design, including a sidebar with a toggle that displays activity that opens the sidebar.
 
-## Getting Started
+#### Used npx create-next-app@latest for creating the next.js project 
+#### To run this project use the "npm run dev"
 
-First, run the development server:
+## Output
+Desktop screen size
+![goindia1](https://github.com/abha2510/GoIndiaStocks/assets/107466839/fb641986-f94c-48fe-92d8-7644a6ec687f)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+when the sidebar is open 
+![goindia2](https://github.com/abha2510/GoIndiaStocks/assets/107466839/5f82d8db-c9a5-46c1-ae0b-3060b4165831)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+mobile screen size
+![goindia3](https://github.com/abha2510/GoIndiaStocks/assets/107466839/4d99da95-d9a5-4f78-96c2-eb50ea46055c)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![goindia4](https://github.com/abha2510/GoIndiaStocks/assets/107466839/75703d14-de25-4a07-9747-eea56e05adaf)
